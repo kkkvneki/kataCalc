@@ -1,0 +1,12 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ğ‚×ğ8ÜÜğ°¤1
+b	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(ÉÜ¥Å8ÜÜğ°¤1
+g	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(éıÓ§ıÿÿÿÿ8ÜÜğ°¤1
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(¥¿›†úÿÿÿÿ8İÜğ°¤1
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ôĞçØ8ìÊö°¤1
+a
+java:S2259)"D"NullPointerException" will be thrown when invoking method "calc()".(îŸ†ª8ŒØŞ±¤1
+G	java:S106"+Replace this use of System.out by a logger.(‹Î‚«8æÜğ°¤1
+L	java:S106	"+Replace this use of System.out by a logger.(Ï µŠÿÿÿÿÿ8çÜğ°¤1
+\
+java:S1118K":Add a private constructor to hide the implicit public one.(ø²¤îûÿÿÿÿ8êÜğ°¤1
